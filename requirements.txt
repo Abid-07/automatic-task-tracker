@@ -1,0 +1,5 @@
+mss
+pandas
+google-genai
+pillow
+python-dotenv
